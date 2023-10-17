@@ -1,3 +1,5 @@
 FUNCTIONAL REQUIREMENTS:
 
-1. 
+1. The system shall provide a private chat interface, where teachers and students arrange private meetings.
+2. The system shall divide courses searched based on subject and language.
+3. The system shall provide different paying methods for the subscription.
